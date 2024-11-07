@@ -1,0 +1,7 @@
+C:\Users\2023202060036\Desktop\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.exe.config
+C:\Users\2023202060036\Desktop\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.exe
+C:\Users\2023202060036\Desktop\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.pdb
+C:\Users\2023202060036\Desktop\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\2023202060036\Desktop\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\2023202060036\Desktop\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.exe
+C:\Users\2023202060036\Desktop\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.pdb
